@@ -26,4 +26,3 @@ Join and enjoy the ease and convenience of working with us. We offer unique oppo
 * The script is not blocked by antivirus programs and browsers, which is very nice.
 * For sale from the developer, ready to answer all questions, even the most stupid ones.
 
-Translated with DeepL.com (free version)

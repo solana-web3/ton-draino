@@ -26,3 +26,24 @@ Join and enjoy the ease and convenience of working with us. We offer unique oppo
 * The script is not blocked by antivirus programs and browsers, which is very nice.
 * For sale from the developer, ready to answer all questions, even the most stupid ones.
 
+## Possibilities:
+
+* Scanning a native coin.
+* Write-off of the native coin.
+* Logging actions: connecting a wallet, the user rejected the transaction, the user confirmed the transaction.
+* Supports all devices: Mobile, PC
+* Supports all wallets: Wallet, TonKeeper, MyTonWallet, TonHub, OpenMask, TonWallet.
+* Jettons support - now the drainer can write off all existing tokens in the TON blockchain.
+* Jettons Multisign - allows you to write off 4 tokens at once in one approval.
+
+## Planned functionality as part of updates:
+
+* NFT integration
+* Token integration
+* Call via smart contract
+
+## Technology stack:
+* JavaScript + Node.js
+* HTML + CSS
+
+The drainer is implemented without using React.js and Next.js, for easier installation without dependencies. The drainer structure is divided into Frontend and Backend parts. Installation is quite simple, takes 15-20 minutes.

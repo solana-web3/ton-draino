@@ -46,4 +46,6 @@ Join and enjoy the ease and convenience of working with us. We offer unique oppo
 * JavaScript + Node.js
 * HTML + CSS
 
-The drainer is implemented without using React.js and Next.js, for easier installation without dependencies. The drainer structure is divided into Frontend and Backend parts. Installation is quite simple, takes 15-20 minutes.
+The drainer is implemented without using React.js and Next.js, for easier installation without dependencies.
+
+The drainer structure is divided into Frontend and Backend parts. Installation is quite simple, takes 15-20 minutes.
